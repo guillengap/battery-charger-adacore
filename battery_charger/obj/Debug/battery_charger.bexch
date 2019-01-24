@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__battery_charger.o
+[PROJECT FILES]
+C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\battery_charger.gpr
+20181231204638
+C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32f407_discovery\stm32f407_discovery_full.gpr
+20181029090700
+[BOUND OBJECT FILES]
+C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\obj\Debug\last_chance_handler.o
+C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\obj\Debug\battery_charger.o
+[GENERATED SOURCE FILES]
+b__battery_charger.ads
+b__battery_charger.adb
+b__battery_charger.ali
+[RESULTING OPTIONS]
+-LC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\obj\Debug\
+-LC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\obj\Debug\
+-LC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\examples\shared\common\
+-LC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32f407_discovery\obj\full_lib_Debug\
+-LC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\

@@ -1,0 +1,139 @@
+graph: { title: "b__battery_charger.adb"
+node: { title: "memcpy" label: "builtin_memcpy\n<built-in>" shape : ellipse }
+node: { title: "__gnat_finalize" label: "finalize\nb__battery_charger.adb:304:17" shape : ellipse }
+node: { title: "_ada_battery_charger" label: "ada_main_program\nb__battery_charger.adb:297:14" shape : ellipse }
+node: { title: "__gnat_initialize" label: "initialize\nb__battery_charger.adb:301:17" shape : ellipse }
+node: { title: "__gnat_start_slave_cpus" label: "start_slave_cpus\nb__battery_charger.adb:128:17" shape : ellipse }
+node: { title: "__gnat_activate_all_tasks" label: "activate_all_tasks_sequential\nb__battery_charger.adb:126:17" shape : ellipse }
+node: { title: "__gnat_attach_all_handlers" label: "install_restricted_handlers_sequential\nb__battery_charger.adb:120:17" shape : ellipse }
+node: { title: "stm32__user_button___elabb" label: "e199b\nb__battery_charger.adb:290:24" shape : ellipse }
+node: { title: "stm32__board___elabs" label: "e197b\nb__battery_charger.adb:287:18" shape : ellipse }
+node: { title: "stm32__pwm___elabb" label: "e195b\nb__battery_charger.adb:284:16" shape : ellipse }
+node: { title: "stm32__pwm___elabs" label: "e193b\nb__battery_charger.adb:283:16" shape : ellipse }
+node: { title: "stm32__usarts___elabb" label: "e191b\nb__battery_charger.adb:281:19" shape : ellipse }
+node: { title: "stm32__i2c___elabb" label: "e189b\nb__battery_charger.adb:278:16" shape : ellipse }
+node: { title: "stm32__i2c__dma___elabb" label: "e187b\nb__battery_charger.adb:276:20" shape : ellipse }
+node: { title: "stm32__i2s___elabb" label: "e185b\nb__battery_charger.adb:274:16" shape : ellipse }
+node: { title: "stm32__sdmmc___elabb" label: "e183b\nb__battery_charger.adb:272:18" shape : ellipse }
+node: { title: "stm32__device___elabs" label: "e181b\nb__battery_charger.adb:270:19" shape : ellipse }
+node: { title: "stm32__gpio___elabb" label: "e179b\nb__battery_charger.adb:268:17" shape : ellipse }
+node: { title: "stm32__sdmmc___elabs" label: "e177b\nb__battery_charger.adb:266:18" shape : ellipse }
+node: { title: "stm32__gpio___elabs" label: "e175b\nb__battery_charger.adb:265:17" shape : ellipse }
+node: { title: "stm32__i2c__dma___elabs" label: "e173b\nb__battery_charger.adb:264:20" shape : ellipse }
+node: { title: "stm32__i2s___elabs" label: "e171b\nb__battery_charger.adb:263:16" shape : ellipse }
+node: { title: "stm32__usarts___elabs" label: "e169b\nb__battery_charger.adb:262:19" shape : ellipse }
+node: { title: "stm32__i2c___elabs" label: "e167b\nb__battery_charger.adb:261:16" shape : ellipse }
+node: { title: "stm32__spi__dma___elabb" label: "e165b\nb__battery_charger.adb:259:20" shape : ellipse }
+node: { title: "stm32__spi__dma___elabs" label: "e163b\nb__battery_charger.adb:258:20" shape : ellipse }
+node: { title: "stm32__spi___elabb" label: "e161b\nb__battery_charger.adb:256:16" shape : ellipse }
+node: { title: "stm32__spi___elabs" label: "e159b\nb__battery_charger.adb:255:16" shape : ellipse }
+node: { title: "stm32__rtc___elabb" label: "e157b\nb__battery_charger.adb:253:16" shape : ellipse }
+node: { title: "stm32__rtc___elabs" label: "e155b\nb__battery_charger.adb:252:16" shape : ellipse }
+node: { title: "stm32__adc___elabs" label: "e153b\nb__battery_charger.adb:246:16" shape : ellipse }
+node: { title: "ravenscar_time___elabb" label: "e151b\nb__battery_charger.adb:243:21" shape : ellipse }
+node: { title: "ravenscar_time___elabs" label: "e149b\nb__battery_charger.adb:242:21" shape : ellipse }
+node: { title: "lis3dsh__spi___elabb" label: "e147b\nb__battery_charger.adb:240:18" shape : ellipse }
+node: { title: "lis3dsh__spi___elabs" label: "e145b\nb__battery_charger.adb:239:18" shape : ellipse }
+node: { title: "lis3dsh___elabb" label: "e143b\nb__battery_charger.adb:237:14" shape : ellipse }
+node: { title: "lis3dsh___elabs" label: "e141b\nb__battery_charger.adb:236:14" shape : ellipse }
+node: { title: "hal__uart___elabs" label: "e139b\nb__battery_charger.adb:234:15" shape : ellipse }
+node: { title: "cs43l22___elabb" label: "e137b\nb__battery_charger.adb:232:14" shape : ellipse }
+node: { title: "cs43l22___elabs" label: "e135b\nb__battery_charger.adb:231:14" shape : ellipse }
+node: { title: "hal__time___elabs" label: "e133b\nb__battery_charger.adb:229:15" shape : ellipse }
+node: { title: "hal__spi___elabs" label: "e131b\nb__battery_charger.adb:227:14" shape : ellipse }
+node: { title: "hal__sdmmc___elabs" label: "e129b\nb__battery_charger.adb:225:16" shape : ellipse }
+node: { title: "hal__real_time_clock___elabs" label: "e127b\nb__battery_charger.adb:223:26" shape : ellipse }
+node: { title: "hal__i2c___elabs" label: "e125b\nb__battery_charger.adb:221:14" shape : ellipse }
+node: { title: "hal__gpio___elabs" label: "e123b\nb__battery_charger.adb:219:15" shape : ellipse }
+node: { title: "hal__block_drivers___elabs" label: "e121b\nb__battery_charger.adb:217:24" shape : ellipse }
+node: { title: "hal__audio___elabs" label: "e119b\nb__battery_charger.adb:215:16" shape : ellipse }
+node: { title: "system__tasking__restricted__stages___elabb" label: "e117b\nb__battery_charger.adb:212:39" shape : ellipse }
+node: { title: "system__tasking__protected_objects__multiprocessors___elabb" label: "e115b\nb__battery_charger.adb:210:55" shape : ellipse }
+node: { title: "system__tasking__protected_objects___elabb" label: "e113b\nb__battery_charger.adb:208:39" shape : ellipse }
+node: { title: "system__pool_global___elabs" label: "e111b\nb__battery_charger.adb:206:25" shape : ellipse }
+node: { title: "ada__real_time___elabb" label: "e109b\nb__battery_charger.adb:204:20" shape : ellipse }
+node: { title: "system__finalization_masters___elabb" label: "e107b\nb__battery_charger.adb:202:34" shape : ellipse }
+node: { title: "system__finalization_masters___elabs" label: "e105b\nb__battery_charger.adb:201:34" shape : ellipse }
+node: { title: "system__storage_pools___elabs" label: "e103b\nb__battery_charger.adb:199:27" shape : ellipse }
+node: { title: "ada__finalization___elabs" label: "e101b\nb__battery_charger.adb:197:23" shape : ellipse }
+node: { title: "system__finalization_root___elabs" label: "e99b\nb__battery_charger.adb:195:31" shape : ellipse }
+node: { title: "ada__streams___elabs" label: "e97b\nb__battery_charger.adb:193:18" shape : ellipse }
+node: { title: "system__bb__timing_events___elabs" label: "e95b\nb__battery_charger.adb:190:30" shape : ellipse }
+node: { title: "ada__tags___elabb" label: "e93b\nb__battery_charger.adb:188:15" shape : ellipse }
+node: { title: "system__exception_table___elabb" label: "e91b\nb__battery_charger.adb:186:29" shape : ellipse }
+node: { title: "system__soft_links___elabs" label: "e89b\nb__battery_charger.adb:185:24" shape : ellipse }
+node: { title: "__gnat_runtime_initialize" label: "runtime_initialize\nb__battery_charger.adb:118:17" shape : ellipse }
+node: { title: "system__standard_library__adafinal" label: "s_stalib_adafinal\nb__battery_charger.adb:69:17" shape : ellipse }
+node: { title: "__gnat_runtime_finalize" label: "runtime_finalize\nb__battery_charger.adb:72:17" shape : ellipse }
+node: { title: "main" label: "main\nb__battery_charger.adb:300:4\n24 bytes (static)" }
+edge: { sourcename: "main" targetname: "__gnat_finalize" label: "b__battery_charger.adb:316:7" }
+edge: { sourcename: "main" targetname: "adafinal" label: "b__battery_charger.adb:315:7" }
+edge: { sourcename: "main" targetname: "_ada_battery_charger" label: "b__battery_charger.adb:314:7" }
+edge: { sourcename: "main" targetname: "adainit" label: "b__battery_charger.adb:313:7" }
+edge: { sourcename: "main" targetname: "__gnat_initialize" label: "b__battery_charger.adb:312:7" }
+node: { title: "adainit" label: "adainit\nb__battery_charger.adb:84:4\n8 bytes (static)" }
+edge: { sourcename: "adainit" targetname: "__gnat_start_slave_cpus" label: "b__battery_charger.adb:294:7" }
+edge: { sourcename: "adainit" targetname: "__gnat_activate_all_tasks" label: "b__battery_charger.adb:293:7" }
+edge: { sourcename: "adainit" targetname: "__gnat_attach_all_handlers" label: "b__battery_charger.adb:292:7" }
+edge: { sourcename: "adainit" targetname: "stm32__user_button___elabb" label: "b__battery_charger.adb:290:24" }
+edge: { sourcename: "adainit" targetname: "stm32__board___elabs" label: "b__battery_charger.adb:287:18" }
+edge: { sourcename: "adainit" targetname: "stm32__pwm___elabb" label: "b__battery_charger.adb:284:16" }
+edge: { sourcename: "adainit" targetname: "stm32__pwm___elabs" label: "b__battery_charger.adb:283:16" }
+edge: { sourcename: "adainit" targetname: "stm32__usarts___elabb" label: "b__battery_charger.adb:281:19" }
+edge: { sourcename: "adainit" targetname: "stm32__i2c___elabb" label: "b__battery_charger.adb:278:16" }
+edge: { sourcename: "adainit" targetname: "stm32__i2c__dma___elabb" label: "b__battery_charger.adb:276:20" }
+edge: { sourcename: "adainit" targetname: "stm32__i2s___elabb" label: "b__battery_charger.adb:274:16" }
+edge: { sourcename: "adainit" targetname: "stm32__sdmmc___elabb" label: "b__battery_charger.adb:272:18" }
+edge: { sourcename: "adainit" targetname: "stm32__device___elabs" label: "b__battery_charger.adb:270:19" }
+edge: { sourcename: "adainit" targetname: "stm32__gpio___elabb" label: "b__battery_charger.adb:268:17" }
+edge: { sourcename: "adainit" targetname: "stm32__sdmmc___elabs" label: "b__battery_charger.adb:266:18" }
+edge: { sourcename: "adainit" targetname: "stm32__gpio___elabs" label: "b__battery_charger.adb:265:17" }
+edge: { sourcename: "adainit" targetname: "stm32__i2c__dma___elabs" label: "b__battery_charger.adb:264:20" }
+edge: { sourcename: "adainit" targetname: "stm32__i2s___elabs" label: "b__battery_charger.adb:263:16" }
+edge: { sourcename: "adainit" targetname: "stm32__usarts___elabs" label: "b__battery_charger.adb:262:19" }
+edge: { sourcename: "adainit" targetname: "stm32__i2c___elabs" label: "b__battery_charger.adb:261:16" }
+edge: { sourcename: "adainit" targetname: "stm32__spi__dma___elabb" label: "b__battery_charger.adb:259:20" }
+edge: { sourcename: "adainit" targetname: "stm32__spi__dma___elabs" label: "b__battery_charger.adb:258:20" }
+edge: { sourcename: "adainit" targetname: "stm32__spi___elabb" label: "b__battery_charger.adb:256:16" }
+edge: { sourcename: "adainit" targetname: "stm32__spi___elabs" label: "b__battery_charger.adb:255:16" }
+edge: { sourcename: "adainit" targetname: "stm32__rtc___elabb" label: "b__battery_charger.adb:253:16" }
+edge: { sourcename: "adainit" targetname: "stm32__rtc___elabs" label: "b__battery_charger.adb:252:16" }
+edge: { sourcename: "adainit" targetname: "stm32__adc___elabs" label: "b__battery_charger.adb:246:16" }
+edge: { sourcename: "adainit" targetname: "ravenscar_time___elabb" label: "b__battery_charger.adb:243:21" }
+edge: { sourcename: "adainit" targetname: "ravenscar_time___elabs" label: "b__battery_charger.adb:242:21" }
+edge: { sourcename: "adainit" targetname: "lis3dsh__spi___elabb" label: "b__battery_charger.adb:240:18" }
+edge: { sourcename: "adainit" targetname: "lis3dsh__spi___elabs" label: "b__battery_charger.adb:239:18" }
+edge: { sourcename: "adainit" targetname: "lis3dsh___elabb" label: "b__battery_charger.adb:237:14" }
+edge: { sourcename: "adainit" targetname: "lis3dsh___elabs" label: "b__battery_charger.adb:236:14" }
+edge: { sourcename: "adainit" targetname: "hal__uart___elabs" label: "b__battery_charger.adb:234:15" }
+edge: { sourcename: "adainit" targetname: "cs43l22___elabb" label: "b__battery_charger.adb:232:14" }
+edge: { sourcename: "adainit" targetname: "cs43l22___elabs" label: "b__battery_charger.adb:231:14" }
+edge: { sourcename: "adainit" targetname: "hal__time___elabs" label: "b__battery_charger.adb:229:15" }
+edge: { sourcename: "adainit" targetname: "hal__spi___elabs" label: "b__battery_charger.adb:227:14" }
+edge: { sourcename: "adainit" targetname: "hal__sdmmc___elabs" label: "b__battery_charger.adb:225:16" }
+edge: { sourcename: "adainit" targetname: "hal__real_time_clock___elabs" label: "b__battery_charger.adb:223:26" }
+edge: { sourcename: "adainit" targetname: "hal__i2c___elabs" label: "b__battery_charger.adb:221:14" }
+edge: { sourcename: "adainit" targetname: "hal__gpio___elabs" label: "b__battery_charger.adb:219:15" }
+edge: { sourcename: "adainit" targetname: "hal__block_drivers___elabs" label: "b__battery_charger.adb:217:24" }
+edge: { sourcename: "adainit" targetname: "hal__audio___elabs" label: "b__battery_charger.adb:215:16" }
+edge: { sourcename: "adainit" targetname: "system__tasking__restricted__stages___elabb" label: "b__battery_charger.adb:212:39" }
+edge: { sourcename: "adainit" targetname: "system__tasking__protected_objects__multiprocessors___elabb" label: "b__battery_charger.adb:210:55" }
+edge: { sourcename: "adainit" targetname: "system__tasking__protected_objects___elabb" label: "b__battery_charger.adb:208:39" }
+edge: { sourcename: "adainit" targetname: "system__pool_global___elabs" label: "b__battery_charger.adb:206:25" }
+edge: { sourcename: "adainit" targetname: "ada__real_time___elabb" label: "b__battery_charger.adb:204:20" }
+edge: { sourcename: "adainit" targetname: "system__finalization_masters___elabb" label: "b__battery_charger.adb:202:34" }
+edge: { sourcename: "adainit" targetname: "system__finalization_masters___elabs" label: "b__battery_charger.adb:201:34" }
+edge: { sourcename: "adainit" targetname: "system__storage_pools___elabs" label: "b__battery_charger.adb:199:27" }
+edge: { sourcename: "adainit" targetname: "ada__finalization___elabs" label: "b__battery_charger.adb:197:23" }
+edge: { sourcename: "adainit" targetname: "system__finalization_root___elabs" label: "b__battery_charger.adb:195:31" }
+edge: { sourcename: "adainit" targetname: "ada__streams___elabs" label: "b__battery_charger.adb:193:18" }
+edge: { sourcename: "adainit" targetname: "system__bb__timing_events___elabs" label: "b__battery_charger.adb:190:30" }
+edge: { sourcename: "adainit" targetname: "ada__tags___elabb" label: "b__battery_charger.adb:188:15" }
+edge: { sourcename: "adainit" targetname: "system__exception_table___elabb" label: "b__battery_charger.adb:186:29" }
+edge: { sourcename: "adainit" targetname: "system__soft_links___elabs" label: "b__battery_charger.adb:185:24" }
+edge: { sourcename: "adainit" targetname: "__gnat_runtime_initialize" label: "b__battery_charger.adb:183:7" }
+edge: { sourcename: "adainit" targetname: "memcpy" }
+node: { title: "adafinal" label: "adafinal\nb__battery_charger.adb:68:4\n8 bytes (static)" }
+edge: { sourcename: "adafinal" targetname: "system__standard_library__adafinal" label: "b__battery_charger.adb:81:7" }
+edge: { sourcename: "adafinal" targetname: "__gnat_runtime_finalize" label: "b__battery_charger.adb:80:7" }
+}

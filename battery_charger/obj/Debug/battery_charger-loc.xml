@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\battery_charger.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 137" >
+      <vfs_project>C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\battery_charger.gpr</vfs_project>
+      <vfs_file>C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

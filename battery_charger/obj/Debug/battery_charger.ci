@@ -1,0 +1,101 @@
+graph: { title: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb"
+node: { title: "_Unwind_Resume" label: "builtin_unwind_resume\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_d2iz" label: "aeabi_d2iz\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmpge" label: "aeabi_dcmpge\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmple" label: "aeabi_dcmple\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmpun" label: "aeabi_dcmpun\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_ui2d" label: "aeabi_ui2d\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dsub" label: "aeabi_dsub\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dadd" label: "aeabi_dadd\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dmul" label: "aeabi_dmul\n<built-in>" shape : ellipse }
+node: { title: "system__fat_lflt__attr_long_float__remainder" label: "Remainder\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\s-fatgen.ads:78:13" shape : ellipse }
+node: { title: "stm32__gpio__configure_io" label: "CONFIGURE_IO\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-gpio.ads:207:14" shape : ellipse }
+node: { title: "stm32__device__enable_clock__2" label: "ENABLE_CLOCK\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:71:14" shape : ellipse }
+node: { title: "stm32__user_button__has_been_pressed" label: "HAS_BEEN_PRESSED\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32_common\common\stm32-user_button.ads:42:13" shape : ellipse }
+node: { title: "ada__real_time__delays__delay_until" label: "Delay_Until\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-retide.ads:42:14" shape : ellipse }
+node: { title: "ada__real_time__Oadd" label: "+\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:74:13" shape : ellipse }
+node: { title: "ada__real_time__milliseconds" label: "Milliseconds\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:106:13" shape : ellipse }
+node: { title: "ada__real_time__clock" label: "Clock\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:70:13" shape : ellipse }
+node: { title: "stm32__gpio__clear" label: "CLEAR\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-gpio.ads:182:14" shape : ellipse }
+node: { title: "stm32__gpio__set__2" label: "SET\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-gpio.ads:176:14" shape : ellipse }
+node: { title: "stm32__pwm__set_duty_cycle" label: "SET_DUTY_CYCLE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:149:14" shape : ellipse }
+node: { title: "__gnat_rcheck_CE_Range_Check" label: "gnat_rcheck_CE_Range_Check\n<built-in>" shape : ellipse }
+node: { title: "stm32__adc__conversion_value" label: "CONVERSION_VALUE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:330:13" shape : ellipse }
+node: { title: "stm32__adc__poll_for_status" label: "POLL_FOR_STATUS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:512:14" shape : ellipse }
+node: { title: "stm32__adc__start_conversion" label: "START_CONVERSION\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:320:14" shape : ellipse }
+node: { title: "stm32__user_button__initialize" label: "INITIALIZE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32_common\common\stm32-user_button.ads:38:14" shape : ellipse }
+node: { title: "stm32__pwm__enable_output" label: "ENABLE_OUTPUT\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:130:14" shape : ellipse }
+node: { title: "stm32__pwm__attach_pwm_channel" label: "ATTACH_PWM_CHANNEL\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:92:14" shape : ellipse }
+node: { title: "stm32__pwm__configure_pwm_timer" label: "CONFIGURE_PWM_TIMER\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:71:14" shape : ellipse }
+node: { title: "stm32__adc__enable" label: "ENABLE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:103:14" shape : ellipse }
+node: { title: "stm32__adc__configure_regular_conversions" label: "CONFIGURE_REGULAR_CONVERSIONS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:193:14" shape : ellipse }
+node: { title: "stm32__adc__configure_unit" label: "CONFIGURE_UNIT\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:119:14" shape : ellipse }
+node: { title: "stm32__adc__configure_common_properties" label: "CONFIGURE_COMMON_PROPERTIES\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:617:14" shape : ellipse }
+node: { title: "stm32__device__reset_all_adc_units" label: "RESET_ALL_ADC_UNITS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:302:14" shape : ellipse }
+node: { title: "stm32__device__enable_clock__4" label: "ENABLE_CLOCK\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:300:14" shape : ellipse }
+node: { title: "stm32__board__initialize_leds" label: "INITIALIZE_LEDS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32_common\stm32f407disco\stm32-board.ads:73:14" shape : ellipse }
+node: { title: "stm32__pwm__pwm_modulatorIP" label: "PWM_MODULATORIP\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:203:9" shape : ellipse }
+node: { title: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__configure_analog_input.6834" label: "Configure_Analog_Input\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:94:4\n24 bytes (static)" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__configure_analog_input.6834" targetname: "stm32__gpio__configure_io" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:97:7" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__configure_analog_input.6834" targetname: "stm32__device__enable_clock__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:96:7" }
+node: { title: "_ada_battery_charger" label: "Battery_Charger\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:29:1\n160 bytes (static)" }
+edge: { sourcename: "_ada_battery_charger" targetname: "_Unwind_Resume" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__delays__delay_until" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:168:10" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__Oadd" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:168:28" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__milliseconds" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:168:30" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__clock" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:168:22" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__set__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:166:20" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__set__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:165:23" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__set__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:163:22" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__user_button__has_been_pressed" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:162:33" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__set__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:161:23" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__clear" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:160:20" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__delays__delay_until" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:158:13" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__Oadd" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:158:31" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__milliseconds" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:158:33" }
+edge: { sourcename: "_ada_battery_charger" targetname: "ada__real_time__clock" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:158:25" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__clear" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:157:23" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__clear" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:156:22" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__gpio__set__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:155:20" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__pwm__set_duty_cycle" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:152:23" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_d2iz" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dsub" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_d2iz" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dadd" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dcmpge" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__gnat_rcheck_CE_Range_Check" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:151:36" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dcmpge" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dcmpun" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dcmple" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dcmpun" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dmul" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_dadd" }
+edge: { sourcename: "_ada_battery_charger" targetname: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:151:45" }
+edge: { sourcename: "_ada_battery_charger" targetname: "__aeabi_ui2d" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__conversion_value" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:149:25" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__poll_for_status" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:148:10" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__start_conversion" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:147:10" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__user_button__initialize" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:145:27" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__pwm__enable_output" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:138:17" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__pwm__attach_pwm_channel" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:132:17" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__pwm__configure_pwm_timer" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:130:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__enable" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:128:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__configure_regular_conversions" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:121:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__configure_unit" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:116:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__adc__configure_common_properties" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:110:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__device__reset_all_adc_units" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:108:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__device__enable_clock__4" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:106:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__configure_analog_input.6834" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:104:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__board__initialize_leds" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:102:4" }
+edge: { sourcename: "_ada_battery_charger" targetname: "stm32__pwm__pwm_modulatorIP" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:67:4" }
+node: { title: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" label: "Sine\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:77:4\n96 bytes (static)" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dadd" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dmul" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dsub" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dmul" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dadd" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dmul" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dmul" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "__aeabi_dmul" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:battery_charger__sine.6832" targetname: "system__fat_lflt__attr_long_float__remainder" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\battery_charger\src\battery_charger.adb:79:7" }
+}

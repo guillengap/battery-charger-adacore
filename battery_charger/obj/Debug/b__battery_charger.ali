@@ -1,0 +1,154 @@
+V "GNAT Lib v2017"
+A -O0
+A -gnatA
+A --RTS=C:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\
+A -mlittle-endian
+A -mfloat-abi=hard
+A -mcpu=cortex-m4
+A -mfpu=fpv4-sp-d16
+A -mthumb
+A -gnatA
+A -gnatWb
+A -gnatiw
+A -gnatws
+A -mlittle-endian
+A -mfloat-abi=hard
+A -mcpu=cortex-m4
+A -mfpu=fpv4-sp-d16
+A -mthumb
+A -fcallgraph-info=su
+A -fcallgraph-info=su
+A -g
+A -ffunction-sections
+A -fdata-sections
+P DB ZX
+
+RN
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_OBSOLESCENT_FEATURES
+RV SPARK_05
+
+U ada_main%b		b__battery_charger.adb	0d6d23be NE OO PK IL
+W system%s		system.ads		system.ali
+W system.restrictions%s	s-restri.adb		s-restri.ali
+
+U ada_main%s		b__battery_charger.ads	530ea8ab EE NE OO PK IL
+W system%s		system.ads		system.ali
+
+D b__battery_charger.ads  20190101044906 888dbd2a ada_main%s
+D b__battery_charger.adb  20190101044906 9e7d98e6 ada_main%b
+D system.ads		20170517220734 db831581 system%s
+D s-restri.ads		20170517220732 1b9d0672 system.restrictions%s
+D s-rident.ads		20170517220734 e8fe221c system.rident%s
+X 1 b__battery_charger.ads
+4K9*ada_main 287l5 287e13 2|9b14 329l5 329t13
+7a4*GNAT_Version{string} 9r22
+11a4*Ada_Main_Program_Name{string} 12r22 2|308r52
+14U14*adainit 15i<c,adainit>22 2|84b14 295l8 295t15 313s7
+17U14*adafinal 18i<c,adafinal>22 2|68b14 82l8 82t16 315s7
+20U14*main 21i<c,main>22 2|300b14 317t7
+X 2 b__battery_charger.adb
+11i4 E095{short_integer} 11m46 11r46 189m7 189r15
+12i4 E053{short_integer} 12m46 12r46 192m7 192r15
+13i4 E051{short_integer} 13m46 13r46 187m7 187r15
+14i4 E109{short_integer} 14m46 14r46 191m7 191r15
+15i4 E126{short_integer} 15m46 15r46 194m7 194r15
+16i4 E134{short_integer} 16m46 16r46 196m7 196r15
+17i4 E132{short_integer} 17m46 17r46 198m7 198r15
+18i4 E136{short_integer} 18m46 18r46 200m7 200r15
+19i4 E129{short_integer} 19m46 19r46 203m7 203r15
+20i4 E006{short_integer} 20m46 20r46 205m7 205r15
+21i4 E138{short_integer} 21m46 21r46 207m7 207r15
+22i4 E188{short_integer} 22m46 22r46 209m7 209r15
+23i4 E194{short_integer} 23m46 23r46 211m7 211r15
+24i4 E207{short_integer} 24m46 24r46 213m7 213r15
+25i4 E228{short_integer} 25m46 25r46 214m7 214r15
+26i4 E214{short_integer} 26m46 26r46 216m7 216r15
+27i4 E237{short_integer} 27m46 27r46 218m7 218r15
+28i4 E176{short_integer} 28m46 28r46 220m7 220r15
+29i4 E184{short_integer} 29m46 29r46 222m7 222r15
+30i4 E218{short_integer} 30m46 30r46 224m7 224r15
+31i4 E232{short_integer} 31m46 31r46 226m7 226r15
+32i4 E124{short_integer} 32m46 32r46 228m7 228r15
+33i4 E252{short_integer} 33m46 33r46 230m7 230r15
+34i4 E251{short_integer} 34m46 34r46 233m7 233r15
+35i4 E248{short_integer} 35m46 35r46 235m7 235r15
+36i4 E142{short_integer} 36m46 36r46 238m7 238r15
+37i4 E254{short_integer} 37m46 37r46 241m7 241r15
+38i4 E256{short_integer} 38m46 38r46 244m7 244r15
+39i4 E230{short_integer} 39m46 39r46 245m7 245r15
+40i4 E153{short_integer} 40m46 40r46 247m7 247r15
+41i4 E159{short_integer} 41m46 41r46 248m7 248r15
+42i4 E200{short_integer} 42m46 42r46 249m7 249r15
+43i4 E172{short_integer} 43m46 43r46 250m7 250r15
+44i4 E220{short_integer} 44m46 44r46 251m7 251r15
+45i4 E217{short_integer} 45m46 45r46 254m7 254r15
+46i4 E240{short_integer} 46m46 46r46 257m7 257r15
+47i4 E242{short_integer} 47m46 47r46 260m7 260r15
+48i4 E180{short_integer} 48m46 48r46 279m7 279r15
+49i4 E246{short_integer} 49m46 49r46 282m7 282r15
+50i4 E236{short_integer} 50m46 50r46 267m7 267r15
+51i4 E213{short_integer} 51m46 51r46 275m7 275r15
+52i4 E186{short_integer} 52m46 52r46 277m7 277r15
+53i4 E165{short_integer} 53m46 53r46 269m7 269r15
+54i4 E225{short_integer} 54m46 54r46 273m7 273r15
+55i4 E170{short_integer} 55m46 55r46 280m7 280r15
+56i4 E148{short_integer} 56m46 56r46 271m7 271r15
+57i4 E258{short_integer} 57m46 57r46 285m7 285r15
+58i4 E146{short_integer} 58m46 58r46 286m7 286r15
+59i4 E123{short_integer} 59m46 59r46 288m7 288r15
+60i4 E120{short_integer} 60m46 60r46 289m7 289r15
+61i4 E260{short_integer} 61m46 61r46 291m7 291r15
+63a4 Local_Priority_Specific_Dispatching{string} 173r9
+64a4 Local_Interrupt_States{string} 176r27
+66b4 Is_Elaborated{boolean} 76r14 79m7 131r10 134m7
+69U17*s_stalib_adafinal 70b<c,system__standard_library__adafinal>25 81s7
+72U17*Runtime_Finalize 73b<c,__gnat_runtime_finalize>25 80s7
+85i7*Main_Priority{integer} 86m25 86r25 135m7
+87i7*Time_Slice_Value{integer} 88m25 88r25 136m7
+89e7*WC_Encoding{character} 90m25 90r25 137m7
+91e7*Locking_Policy{character} 92m25 92r25 138m7
+93e7*Queuing_Policy{character} 94m25 94r25 139m7
+95e7*Task_Dispatching_Policy{character} 96m25 96r25 140m7
+97m7*Priority_Specific_Dispatching{3|80M9} 98m25 98r25 172m7
+99i7*Num_Specific_Dispatching{integer} 100m25 100r25 174m7
+101i7*Main_CPU{integer} 102m25 102r25 175m7
+103m7*Interrupt_States{3|80M9} 104m25 104r25 176m7
+105i7*Num_Interrupt_States{integer} 106m25 106r25 177m7
+107i7*Unreserve_All_Interrupts{integer} 108m25 108r25 178m7
+109i7*Detect_Blocking{integer} 110m25 110r25 179m7
+111i7*Default_Stack_Size{integer} 112m25 112r25 180m7
+113i7*Leap_Seconds_Support{integer} 114m25 114r25 181m7
+115m7*Bind_Env_Addr{3|80M9} 116m25 116r25
+118U17*Runtime_Initialize 118>37 119b<c,__gnat_runtime_initialize>25 183s7
+118i37 Install_Handler{integer}
+120U17*Install_Restricted_Handlers_Sequential 121b<c,__gnat_attach_all_handlers>24
+. 292s7
+123e7*Partition_Elaboration_Policy{character} 124m25 124r25 141m7
+126U17*Activate_All_Tasks_Sequential 127b<c,__gnat_activate_all_tasks>25
+. 293s7
+128U17*Start_Slave_CPUs 129b<c,__gnat_start_slave_cpus>25 294s7
+297U14 Ada_Main_Program 298b<ada,_ada_battery_charger>24 314s7
+301U17*Initialize 301>29 302b<c,__gnat_initialize>25 312s7
+301m29 Addr{3|80M9}
+304U17*Finalize 305b<c,__gnat_finalize>25 316s7
+306a7 SEH(integer) 312m19 312r19
+308m7 Ensure_Reference{3|80M9} 309r24
+X 3 system.ads
+50K9*System 1|3w6 2|7r6 97r39 103r26 115r23 142r7 301r36 308r34 3|164e11
+80M9*Address 2|97r46 103r33 115r30 301r43 308r41
+X 4 s-restri.ads
+45K16*Restrictions 2|7w13 142m14 4|77e24
+52r4*Run_Time_Restrictions{5|321R9[49]} 2|142m27
+X 5 s-rident.ads
+317A9*Restriction_Flags(boolean)<85E9[4|49]>
+318A9*Restriction_Values(natural)<85E9[4|49]>
+319A9*Parameter_Flags(boolean)<85E9[4|49]>
+321R9*Restrictions_Info
+322a7*Set{317A9[4|49]} 2|143m10[4|49]
+328a7*Value{318A9[4|49]} 2|156m10[4|49]
+335a7*Violated{317A9[4|49]} 2|157m10[4|49]
+340a7*Count{318A9[4|49]} 2|170m10[4|49]
+348a7*Unknown{319A9[4|49]} 2|171m10[4|49]
+
